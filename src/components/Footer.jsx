@@ -48,7 +48,7 @@ function Footer() {
             <h2 className="brand-name">GameVerse</h2>
           </LogoContainer>
           <p className="tagline">
-            Il portale che unisce giocatori e sviluppatori
+            Il portale che unisce giocatori e sviluppatori di videogiochi
           </p>
 
           <SocialLinks>
@@ -406,8 +406,8 @@ const ContactItem = styled.div`
 `;
 
 const CopyrightBar = styled.div`
-  margin-top: 30px;
-  padding: 15px;
+  //margin-top: 30px;
+  padding: 0 15px;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
   display: flex;
   justify-content: space-between;
