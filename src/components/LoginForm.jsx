@@ -4,6 +4,7 @@ import { login } from "../redux/actions/account.js";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
+import GradientButton from "./GradientButton.jsx";
 
 const LoginForm = () => {
   const dispatch = useDispatch();
@@ -71,9 +72,12 @@ const LoginForm = () => {
               }}
             />
           </div>
-          <button type="submit" className="form-submit-btn">
+          {/* <button type="submit" className="form-submit-btn">
             Login
-          </button>
+          </button> */}
+          <div className="d-flex justify-content-center">
+            <GradientButton text="LOGIN" type="submit" />
+          </div>
         </form>
       </div>
     </StyledWrapper>

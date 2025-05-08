@@ -91,3 +91,29 @@ export const getAllUsers = () => {
     }
   };
 };
+
+export const removeUser = (applicationUserId, navigate) => {
+  return async () => {
+    try {
+      const response = await fetch(
+        "https://localhost:7105/api/ApplicationUser/" + applicationUserId,
+        {
+          method: "DELETE",
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }
+      );
+      console.log("response", response);
+      if (response.ok) {
+        const data = await response.json();
+        console.log(data);
+        navigate("/");
+      } else {
+        throw new Error("Errore nella response di removePost");
+      }
+    } catch (error) {
+      console.error("ERRORE FETCH:" + error);
+    }
+  };
+};
