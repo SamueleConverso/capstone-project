@@ -110,7 +110,7 @@ export const removeUser = (applicationUserId, navigate) => {
         console.log(data);
         navigate("/");
       } else {
-        throw new Error("Errore nella response di removePost");
+        throw new Error("Errore nella response di removeUser");
       }
     } catch (error) {
       console.error("ERRORE FETCH:" + error);
