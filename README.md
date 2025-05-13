@@ -2,7 +2,11 @@
 ### *Il portale per gamer e sviluppatori di videogiochi*  
 ### *by Samuele Converso*    
 
-Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sviluppatori** che desiderano:
+---  
+
+# 👋🏻 Benvenuto su **GameVerse**  
+
+**GameVerse** è la piattaforma pensata per **videogiocatori** e **sviluppatori** che desiderano:
 
 - Trovare nuove amicizie online 💬
 - Condividere passioni e progetti legati al mondo videoludico 🎨
