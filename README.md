@@ -55,7 +55,7 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 - **C#**  
   🧠 Sviluppato in C#, un linguaggio moderno e potente ideale per applicazioni web scalabili.
 
-- **SQL Server & T-SQL**  
+- **SQL Server & T-SQL in SSMS**  
   💾 Database relazionale ad alte prestazioni  
   🔐 Sicurezza, integrità e scalabilità.  
   🗒️ Query e gestione dei dati effettuate anche con T-SQL all’interno di SQL Server Management Studio.  
