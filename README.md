@@ -14,6 +14,8 @@ Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sv
 
 [capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
 
+--- 
+
 ## 🌟 Obiettivi del Progetto
 
 **GameVerse** nasce come progetto finale di un corso di programmazione web con l’obiettivo di mettere in pratica le competenze acquisite nel percorso da **Full Stack Web Developer**.
