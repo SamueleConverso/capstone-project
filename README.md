@@ -2,7 +2,7 @@
   <img src="./git-images/GameVerseLogo.png" alt="GameVerse Logo" width="200" />
 </p>  
 
-# 🎮 GameVerse 👥🕹️  
+# 🎮 GameVerse 👥    
 ### *Il portale per gamer e sviluppatori di videogiochi*  
 ### *by Samuele Converso*    
 
