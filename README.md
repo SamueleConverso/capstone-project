@@ -96,7 +96,7 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 - 👤 **Registrazione e Login sicuri** con token JWT
 - 🧑‍🤝‍🧑 **Sistema di amicizie**: invia, ricevi, accetta/rifiuta richieste
 - 🧵 **Post e Commenti**: crea contenuti, partecipa alle discussioni
-- 👍 **Like univoci** per post e commenti (ogni utente può mettere un solo like per contenuto)
+- 👍 **Like univoci** per post e commenti  
 - 🕹️ **Gestione Videogiochi**: scopri, aggiungi e condividi giochi
 - 🌐 **Community di gioco**: crea o entra in community tematiche
 
