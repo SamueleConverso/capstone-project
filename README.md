@@ -121,6 +121,6 @@ cd capstone-project
 
 ## 🔗 Link diretto alla repository **backend**  
 
-👉🏻 [capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
+👉🏻 [Backend](https://github.com/SamueleConverso/capstone-project-backend)  
 
 
