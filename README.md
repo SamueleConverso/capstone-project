@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./git-images/GameVerseLogo.png" alt="GameVerse Logo" width="300" />
-</p>
+  <img src="./git-images/GameVerseLogo.png" alt="GameVerse Logo" width="200" />
+</p>  
 
 # 🎮 GameVerse 👥🕹️  
 ### *Il portale per gamer e sviluppatori di videogiochi*  
