@@ -92,8 +92,9 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 - [SQL Server](https://www.microsoft.com/it-it/sql-server/sql-server-downloads)
 - [Node.js (v18+)](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
+- [Visual Studio](https://visualstudio.microsoft.com/it/) 
+- [Visual Studio Code](https://code.visualstudio.com/)  
+ 
 ### 🔁 Clonazione del progetto
 
 ```bash
