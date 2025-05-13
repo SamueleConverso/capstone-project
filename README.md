@@ -1,18 +1,3 @@
-LINK AL BACKEND: https://github.com/SamueleConverso/capstone-project-backend 
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project. 
-
 # 🎮 GameVerse - Il portale per gamer e sviluppatori di videogiochi 👥🕹️
 
 Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sviluppatori** che desiderano:
@@ -24,6 +9,10 @@ Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sv
 - Costruire un network attivo tra chi gioca e chi crea giochi 👨‍💻👩‍💻
 
 ---
+
+## 🔗 Link diretto alla repository **backend**  
+
+[capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
 
 ## 🌟 Obiettivi del Progetto
 
@@ -75,7 +64,7 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   📱 Ottimizzato per mobile e desktop.
 
 - **Vite** ⚡  
-  🔥 Dev server rapidissimo  
+  🔥 Dev server rapidissimo con Fast Refresh grazie al plugin SWC: [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh 
   🛠️ Build moderna e ottimizzata.
 
 - **JavaScript ES6+ / JSX**  
@@ -112,6 +101,6 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 ### 🔁 Clonazione del progetto
 
 ```bash
-git clone https://github.com/SamueleConverso/capstone-project/
+git clone https://github.com/SamueleConverso/capstone-project
 cd capstone-project
 
