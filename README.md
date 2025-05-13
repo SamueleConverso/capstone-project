@@ -1,4 +1,6 @@
-# 🎮 GameVerse - Il portale per gamer e sviluppatori di videogiochi - by **Samuele Converso** 👥🕹️
+# 🎮 GameVerse 👥🕹️
+## Il portale per gamer e sviluppatori di videogiochi  
+## by **Samuele Converso**  
 
 Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sviluppatori** che desiderano:
 
