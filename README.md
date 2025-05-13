@@ -26,7 +26,7 @@
 
 ## 🌟 Obiettivi del Progetto
 
-**GameVerse** nasce come progetto finale del **corso di programmazione web full-time di *Epicode*** con l’obiettivo di mettere in pratica e dimostrare nella pratica le competenze acquisite nel percorso da **Full-Stack Web Developer**.
+**GameVerse** nasce come progetto finale del ***corso full-time* da *Full-Stack Web Developer* di *Epicode*** con l’obiettivo di mettere in pratica e dimostrare nella pratica le competenze acquisite nel percorso.
 
 I principali obiettivi del portale sono:
 
