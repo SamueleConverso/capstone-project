@@ -84,12 +84,13 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 
 ---
 
-## 🚀 Come Avviare il Progetto in Locale
+## 🚀 Altro & Come Avviare il Progetto in Locale
 
-### ✅ Requisiti
+### ✅ Tool utilizzati durante lo sviluppo  
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/it-it/sql-server/sql-server-downloads)
+- [SSMS](https://learn.microsoft.com/it-it/ssms/download-sql-server-management-studio-ssms)  
 - [Node.js (v18+)](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [Visual Studio](https://visualstudio.microsoft.com/it/) 
