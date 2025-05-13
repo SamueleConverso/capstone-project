@@ -66,8 +66,8 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   📱 Ottimizzato per mobile e desktop.
 
 - **Vite** ⚡  
-  🔥 Dev server rapidissimo con Fast Refresh grazie al plugin SWC: [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) usa [SWC](https://swc.rs/) per Fast Refresh
-  🛠️ Build moderna e ottimizzata.
+  🔥 Dev server rapidissimo con Fast Refresh grazie al plugin SWC: [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) usa [SWC](https://swc.rs/) per Fast Refresh 
+🛠️ Build moderna e ottimizzata.
 
 - **JavaScript ES6+ / JSX**  
   📜 Logica interattiva, asincrona e reattiva  
