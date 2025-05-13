@@ -38,16 +38,14 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   🗃️ Modellazione del database relazionale con relazioni complesse  
   🔁 Migrazioni automatiche e gestione del ciclo di vita dei dati.
 
-- **SQL Server**  
-  💾 Database relazionale ad alte prestazioni  
-  🔐 Sicurezza, integrità e scalabilità.
-
 - **C#**  
   🧠 Sviluppato in C#, un linguaggio moderno e potente ideale per applicazioni web scalabili.
 
-- **T-SQL**  
-  💾 Query e gestione dei dati effettuate anche con T-SQL all’interno di SQL Server Management Studio.
-
+- **SQL Server & T-SQL**  
+  💾 Database relazionale ad alte prestazioni  
+  🔐 Sicurezza, integrità e scalabilità.  
+  🗒️ Query e gestione dei dati effettuate anche con T-SQL all’interno di SQL Server Management Studio.  
+ 
 ### 🌐 Frontend (React + Vite)
 
 - **React** ⚛️  
