@@ -24,7 +24,7 @@ I principali obiettivi del portale sono:
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
+## 🛠️ Tecnologie Utilizzate (backend & frontend)  
 
 Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samuele Converso, sia lato **backend** che lato **frontend**, sfruttando un'architettura moderna **API + SPA**.
 
