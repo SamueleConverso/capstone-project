@@ -1,4 +1,4 @@
-# 🎮 GameVerse - Il portale per gamer e sviluppatori di videogiochi 👥🕹️
+# 🎮 GameVerse - Il portale per gamer e sviluppatori di videogiochi - by **Samuele Converso** 👥🕹️
 
 Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sviluppatori** che desiderano:
 
@@ -12,7 +12,7 @@ Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sv
 
 ## 🔗 Link diretto alla repository **backend**  
 
-[capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
+👉🏻 [capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
 
 --- 
 
