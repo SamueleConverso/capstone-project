@@ -6,15 +6,9 @@ Benvenuto su **GameVerse**, la piattaforma pensata per **videogiocatori** e **sv
 - Condividere passioni e progetti legati al mondo videoludico 🎨
 - Collaborare nella creazione di nuove **community** 🤝
 - Scoprire e discutere nuovi videogiochi 🎲
-- Costruire un network attivo tra chi gioca e chi crea giochi 👨‍💻👩‍💻
+- Costruire un network attivo tra chi gioca e chi crea giochi 👨‍💻👩‍💻  
 
----
-
-## 🔗 Link diretto alla repository **backend**  
-
-👉🏻 [capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
-
---- 
+---  
 
 ## 🌟 Obiettivi del Progetto
 
@@ -105,4 +99,12 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 ```bash
 git clone https://github.com/SamueleConverso/capstone-project
 cd capstone-project
+```  
+
+---
+
+## 🔗 Link diretto alla repository **backend**  
+
+👉🏻 [capstone-project-backend](https://github.com/SamueleConverso/capstone-project-backend)  
+
 
