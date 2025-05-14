@@ -179,9 +179,19 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   <img src="./git-images/screenshots/Videogames4.png" width="600" />
 </p>  
 
-- Profilo: 
+- Profilo personale: 
 <p align="center">
   <img src="./git-images/screenshots/Profile5.png" width="600" />
+</p>  
+
+- Pagina dei Post di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile3.png" width="600" />
+</p>  
+
+- Profilo di un utente terzo: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile6.png" width="600" />
 </p>  
 
 ---  
