@@ -100,7 +100,101 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 - 🕹️ **Gestione Videogiochi**: scopri, aggiungi e condividi giochi
 - 🌐 **Community di gioco**: crea o entra in community tematiche
 
----
+---  
+
+## 📸 Screenshot  
+
+- Homepage: 
+<p align="center">
+  <img src="./git-images/screenshots/Homepage.png" width="600" />
+</p>  
+
+- Registrazione: 
+<p align="center">
+  <img src="./git-images/screenshots/Register.png" width="600" />
+</p>  
+
+- Login: 
+<p align="center">
+  <img src="./git-images/screenshots/Login.png" width="600" />
+</p>  
+
+- Feed: 
+<p align="center">
+  <img src="./git-images/screenshots/Feed.png" width="600" />
+</p>  
+
+- Cerca nuovi amici: 
+<p align="center">
+  <img src="./git-images/screenshots/Find.png" width="600" />
+</p>  
+
+- Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community.png" width="600" />
+</p>  
+
+- Form di creazione nuova Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community2.png" width="600" />
+</p>  
+
+- Pagina di dettaglio di una Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community3.png" width="600" />
+</p>  
+
+- Form di modifica di una Community esistente: 
+<p align="center">
+  <img src="./git-images/screenshots/Community4.png" width="600" />
+</p> 
+
+- Gestione membri di una Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community5.png" width="600" />
+</p> 
+
+- Pagina delle Community di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Community6.png" width="600" />
+</p> 
+
+- Videogames: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames.png" width="600" />
+</p>  
+
+- Form di creazione nuovo Videogame: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames2.png" width="600" />
+</p>  
+
+- Pagina di dettaglio di un Videogame: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames3.png" width="600" />
+</p>  
+
+- Pagina dei Videogames di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames4.png" width="600" />
+</p>  
+
+- Profilo personale: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile5.png" width="600" />
+</p>  
+
+- Pagina dei Post di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile3.png" width="600" />
+</p>  
+
+- Profilo di un utente terzo: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile6.png" width="600" />
+</p>  
+
+---  
 
 ## 🚀 Altro & Come Avviare il Progetto in Locale
 
