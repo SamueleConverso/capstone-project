@@ -106,7 +106,7 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 
 - Homepage: 
 <p align="center">
-  <img src="./git-images/screenshots/Homepage.png" alt="GameVerse Logo" width="100" />
+  <img src="./git-images/screenshots/Homepage.png" alt="GameVerse Logo" width="300" />
 </p>  
 
 
