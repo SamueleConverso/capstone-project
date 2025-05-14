@@ -1353,7 +1353,7 @@ const CommunityDetailsPage = () => {
                               whileTap={{ scale: 0.95 }}
                               onClick={() => setShowCreatePost(true)}
                             >
-                              <Icon.PencilSquare size={18} />
+                              <Icon.PencilSquare size={18} className="m-0" />
                               Crea il primo post
                             </motion.button>
                           )}

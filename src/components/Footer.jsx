@@ -25,8 +25,10 @@ import styled from "styled-components";
 import { motion } from "framer-motion";
 import * as Icon from "react-bootstrap-icons";
 import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 function Footer() {
+  const navigate = useNavigate();
   return (
     <FooterWrapper>
       <GlowEffect />
@@ -36,7 +38,12 @@ function Footer() {
 
       <FooterContent>
         <BrandSection>
-          <LogoContainer>
+          <LogoContainer
+            style={{ cursor: "pointer" }}
+            onClick={() => {
+              navigate("/");
+            }}
+          >
             <motion.div
               className="logo-glow"
               animate={{
@@ -48,19 +55,29 @@ function Footer() {
             <h2 className="brand-name">GameVerse</h2>
           </LogoContainer>
           <p className="tagline">
-            Il portale che unisce giocatori e sviluppatori di videogiochi
+            Il portale che unisce giocatori e sviluppatori di videogiochi!
           </p>
+          <p className="tagline">by Samuele Converso</p>
 
           <SocialLinks>
             <SocialButton
               whileHover={{ y: -3, scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
+              onClick={() => {
+                window.open("https://github.com/SamueleConverso", "_blank");
+              }}
             >
               <Icon.Github />
             </SocialButton>
             <SocialButton
               whileHover={{ y: -3, scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
+              onClick={() => {
+                window.open(
+                  "https://www.linkedin.com/in/samuele-converso-b13999326/",
+                  "_blank"
+                );
+              }}
             >
               <Icon.Linkedin />
             </SocialButton>
@@ -83,19 +100,28 @@ function Footer() {
           <FooterColumn>
             <h3>Navigazione</h3>
             <ul>
-              <FooterLink whileHover={{ x: 5 }}>
+              <FooterLink whileHover={{ x: 5 }} onClick={() => navigate("/")}>
                 <Icon.HouseFill className="link-icon" />
                 <span>Home</span>
               </FooterLink>
-              <FooterLink whileHover={{ x: 5 }}>
+              <FooterLink
+                whileHover={{ x: 5 }}
+                onClick={() => navigate("/videogames")}
+              >
                 <Icon.Controller className="link-icon" />
                 <span>Videogiochi</span>
               </FooterLink>
-              <FooterLink whileHover={{ x: 5 }}>
+              <FooterLink
+                whileHover={{ x: 5 }}
+                onClick={() => navigate("/communities")}
+              >
                 <Icon.PeopleFill className="link-icon" />
                 <span>Community</span>
               </FooterLink>
-              <FooterLink whileHover={{ x: 5 }}>
+              <FooterLink
+                whileHover={{ x: 5 }}
+                onClick={() => navigate("/find-friends")}
+              >
                 <Icon.PersonPlusFill className="link-icon" />
                 <span>Trova Amici</span>
               </FooterLink>
@@ -106,15 +132,15 @@ function Footer() {
             <h3>Contattaci</h3>
             <ContactItem>
               <Icon.EnvelopeFill className="contact-icon" />
-              <span>info@gameverse.com</span>
+              <span>samu.converso@gmail.com</span>
             </ContactItem>
             <ContactItem>
               <Icon.TelephoneFill className="contact-icon" />
-              <span>+39 123 456 7890</span>
+              <span>Cellulare</span>
             </ContactItem>
             <ContactItem>
               <Icon.GeoAltFill className="contact-icon" />
-              <span>Via dei Videogiochi, 42 - Roma</span>
+              <span>Location</span>
             </ContactItem>
           </FooterColumn>
 
