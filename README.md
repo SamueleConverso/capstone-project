@@ -134,6 +134,31 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   <img src="./git-images/screenshots/Community.png" width="600" />
 </p>  
 
+- Form di creazione nuova Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community2.png" width="600" />
+</p>  
+
+- Pagina di dettaglio di una Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community3.png" width="600" />
+</p>  
+
+- Form di modifica di una Community esistente: 
+<p align="center">
+  <img src="./git-images/screenshots/Community4.png" width="600" />
+</p> 
+
+- Gestione membri di una Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community5.png" width="600" />
+</p> 
+
+- Pagina delle Community di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Community6.png" width="600" />
+</p> 
+
 - Videogames: 
 <p align="center">
   <img src="./git-images/screenshots/Videogames.png" width="600" />
