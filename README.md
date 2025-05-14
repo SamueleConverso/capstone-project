@@ -164,6 +164,21 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   <img src="./git-images/screenshots/Videogames.png" width="600" />
 </p>  
 
+- Form di creazione nuovo Videogame: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames2.png" width="600" />
+</p>  
+
+- Pagina di dettaglio di un Videogame: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames3.png" width="600" />
+</p>  
+
+- Pagina dei Videogames di un utente: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames4.png" width="600" />
+</p>  
+
 - Profilo: 
 <p align="center">
   <img src="./git-images/screenshots/Profile5.png" width="600" />
