@@ -140,7 +140,7 @@ function Footer() {
             </ContactItem>
             <ContactItem>
               <Icon.GeoAltFill className="contact-icon" />
-              <span>Location</span>
+              <span>Roma</span>
             </ContactItem>
           </FooterColumn>
 
