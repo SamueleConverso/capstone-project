@@ -129,14 +129,14 @@ function Footer() {
           </FooterColumn>
 
           <FooterColumn>
-            <h3>Contattaci</h3>
+            <h3>Contatti</h3>
             <ContactItem>
               <Icon.EnvelopeFill className="contact-icon" />
               <span>samu.converso@gmail.com</span>
             </ContactItem>
             <ContactItem>
               <Icon.TelephoneFill className="contact-icon" />
-              <span>Cellulare</span>
+              <span>Cellulare...</span>
             </ContactItem>
             <ContactItem>
               <Icon.GeoAltFill className="contact-icon" />
@@ -149,7 +149,7 @@ function Footer() {
             <ul>
               <FooterLink whileHover={{ x: 5 }}>
                 <Icon.InfoCircleFill className="link-icon" />
-                <span>Chi siamo</span>
+                <span>Chi sono</span>
               </FooterLink>
               <FooterLink whileHover={{ x: 5 }}>
                 <Icon.ShieldLockFill className="link-icon" />
