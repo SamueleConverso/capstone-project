@@ -100,7 +100,17 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 - 🕹️ **Gestione Videogiochi**: scopri, aggiungi e condividi giochi
 - 🌐 **Community di gioco**: crea o entra in community tematiche
 
----
+---  
+
+## 📸 Screenshot  
+
+- Homepage: 
+<p align="center">
+  <img src="./git-images/screenshots/Homepage.png" alt="GameVerse Logo" width="100" />
+</p>  
+
+
+---  
 
 ## 🚀 Altro & Come Avviare il Progetto in Locale
 
