@@ -119,7 +119,31 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
   <img src="./git-images/screenshots/Login.png" width="600" />
 </p>  
 
- 
+- Feed: 
+<p align="center">
+  <img src="./git-images/screenshots/Feed.png" width="600" />
+</p>  
+
+- Cerca nuovi amici: 
+<p align="center">
+  <img src="./git-images/screenshots/Find.png" width="600" />
+</p>  
+
+- Community: 
+<p align="center">
+  <img src="./git-images/screenshots/Community.png" width="600" />
+</p>  
+
+- Videogames: 
+<p align="center">
+  <img src="./git-images/screenshots/Videogames.png" width="600" />
+</p>  
+
+- Profilo: 
+<p align="center">
+  <img src="./git-images/screenshots/Profile5.png" width="600" />
+</p>  
+
 ---  
 
 ## 🚀 Altro & Come Avviare il Progetto in Locale
