@@ -106,10 +106,20 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 
 - Homepage: 
 <p align="center">
-  <img src="./git-images/screenshots/Homepage.png" alt="GameVerse Logo" width="600" />
+  <img src="./git-images/screenshots/Homepage.png" width="600" />
 </p>  
 
+- Registrazione: 
+<p align="center">
+  <img src="./git-images/screenshots/Register.png" width="600" />
+</p>  
 
+- Login: 
+<p align="center">
+  <img src="./git-images/screenshots/Login.png" width="600" />
+</p>  
+
+ 
 ---  
 
 ## 🚀 Altro & Come Avviare il Progetto in Locale
