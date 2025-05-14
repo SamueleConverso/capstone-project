@@ -423,6 +423,18 @@ const UserProfileView = ({ profileUser }) => {
               </motion.button>
             )}
 
+          {isFriend() &&
+            currentUser.applicationUserId !== profileUser.applicationUserId && (
+              <motion.button
+                className="action-btn remove-friend-btn"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                onClick={handleRemoveFriend}
+              >
+                <Icon.PersonDash className="btn-icon" /> Rimuovi amico
+              </motion.button>
+            )}
+
           {isReceivedFriendRequest() && (
             <div className="friend-request-actions">
               <motion.button
