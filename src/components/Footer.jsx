@@ -74,7 +74,7 @@ function Footer() {
               whileTap={{ scale: 0.9 }}
               onClick={() => {
                 window.open(
-                  "https://www.linkedin.com/in/samuele-converso-b13999326/",
+                  "https://www.linkedin.com/in/samuele-converso/",
                   "_blank"
                 );
               }}
